@@ -1,2 +1,2 @@
-# HyperODE
-HyperODE
+# HyperMODE
+HyperMODE
