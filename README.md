@@ -1,2 +1,2 @@
-# MambaODE
-MambaODE
+# HyperODE
+HyperODE
